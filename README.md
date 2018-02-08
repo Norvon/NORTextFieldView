@@ -5,9 +5,10 @@ NORTextField 是集成了数字安全键盘的TextField.
 <img src="image/1.gif" width="200" height="360" style="max-width:100%;">
 
 ## 使用
-第一步:拷贝Class文件夹到工程
-第二步:在合适的位置#import "NORTextFieldView.h"
-第三部:把NORTextFieldView添加到合适的view上
+
+1. 拷贝Class文件夹到工程
+2. 在合适的位置#import "NORTextFieldView.h"
+3. 把NORTextFieldView添加到合适的view上
 
 备注: 
 
